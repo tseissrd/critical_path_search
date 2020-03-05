@@ -1,0 +1,3 @@
+﻿  critpath.cpp
+c:\users\sovereign\source\repos\critpath\critpath\critpath.cpp(35): warning C4102: 'resetv': unreferenced label
+  critpath.vcxproj -> C:\Users\Sovereign\source\repos\critpath\Debug\critpath.exe
